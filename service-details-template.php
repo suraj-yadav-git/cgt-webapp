@@ -180,7 +180,7 @@
             </div>
             <div class="social-links d-flex mt-4">
               <a href=""><i class="bi bi-twitter-x"></i></a>
-              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href="https://www.facebook.com/CloudGuardians.in"><i class="bi bi-facebook"></i></a>
               <a href=""><i class="bi bi-instagram"></i></a>
               <a href="https://www.linkedin.com/company/cloud-guardians"><i class="bi bi-linkedin"></i></a>
             </div>
