@@ -835,6 +835,7 @@
               message: $("textarea[name='message']").val(),
             },
             (response, status) => {
+              $('.email-form')[0].reset();
               $('.loading').removeClass('d-block');
               if(response == 0) {
                 $('.sent-message').addClass('d-block');
